@@ -5,11 +5,9 @@ public class LocatingMap {
         System.out.println("I love learning.");
 
         System.out.println("I love kindness.");
-
-
-
-
-
+        System.out.println("I love WOMEN.");
+        
+        
     }
 
 }
